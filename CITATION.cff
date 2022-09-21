@@ -1,0 +1,11 @@
+@article{rabin2022memorization,
+  title = {Memorization and generalization in neural code intelligence models},
+  author = {Md Rafiqul Islam Rabin and Aftab Hussain and Mohammad Amin Alipour and Vincent J. Hellendoorn},
+  journal = {Information and Software Technology},
+  volume = {153},
+  pages = {107066},
+  year = {2022},
+  issn = {0950-5849},
+  doi = {https://doi.org/10.1016/j.infsof.2022.107066},
+  url = {https://www.sciencedirect.com/science/article/pii/S0950584922001756}
+}
