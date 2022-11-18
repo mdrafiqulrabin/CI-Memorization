@@ -15,11 +15,16 @@ import java.util.*;
 @SuppressWarnings({"WeakerAccess", "unused"})
 public final class Common {
 
+    static final String Y_NOISE_CHANGE_LABEL = "Y_Change_MethodName";
+    static final String X_NOISE_REMOVE_STMT = "X_Remove_Statement";
+    static final String X_NOISE_METHOD_VAR = "X_Method_Variable";
+
     static File ROOT_INPUT_PATH = new File("");
     static File ROOT_OUTPUT_PATH = new File("");
     static String DATASET_NAME = "";
     static String PARTITION_NAME = "";
     static Double NOISE_LIMIT = 0.0;
+    static String NOISE_TYPE = "";
 
     static List<String> PARTITION_NAMES = Arrays.asList("training");
     static List<Double> NOISE_LIMITS = Arrays.asList(0.25, 0.50, 0.75, 1.00);
