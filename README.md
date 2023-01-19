@@ -48,6 +48,12 @@ This repository contains the evaluation scripts and detailed results of our pape
 
 ---
 
+Check the following repositories from @AftabHussain for the great variable misuse experiments:  
+- https://github.com/AftabHussain/noise-gen_great-varmisuse  
+- https://github.com/AftabHussain/save-trainstats_great-varmisuse  
+
+---
+
 ## Citation:
 
 [Memorization and Generalization in Neural Code Intelligence Models](https://doi.org/10.1016/j.infsof.2022.107066)
